@@ -4,7 +4,9 @@
   "description": "A command line cheat sheet for semantic labelling.",
   "main": "index.js",
   "preferGlobal": true,
-  "bin": "./index.js",
+  "bin": {
+    "sem": "index.js"
+  },
   "keywords": [
     "semantic",
     "version",
@@ -18,5 +20,13 @@
   "dependencies": {
     "colors": "^1.4.0",
     "commander": "^4.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjoseph7/sem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sjoseph7/sem/issues"
+  },
+  "homepage": "https://github.com/sjoseph7/sem#readme"
 }
