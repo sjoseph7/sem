@@ -1,4 +1,4 @@
-## Sem: A Semantic Helper
+## sem-cs: semantic cheat sheet
 
 A command line cheat sheet for semantic labelling.
 

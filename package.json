@@ -1,12 +1,10 @@
 {
-  "name": "sem",
+  "name": "sem-cs",
   "version": "0.1.0",
   "description": "A command line cheat sheet for semantic labelling.",
   "main": "index.js",
   "preferGlobal": true,
-  "bin": {
-    "sem": "index.js"
-  },
+  "bin": "./index.js",
   "keywords": [
     "semantic",
     "version",
@@ -23,10 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sjoseph7/sem.git"
+    "url": "git+https://github.com/sjoseph7/sem-cs.git"
   },
   "bugs": {
-    "url": "https://github.com/sjoseph7/sem/issues"
+    "url": "https://github.com/sjoseph7/sem-cs/issues"
   },
-  "homepage": "https://github.com/sjoseph7/sem#readme"
+  "homepage": "https://github.com/sjoseph7/sem-cs#readme"
 }
