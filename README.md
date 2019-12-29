@@ -2,6 +2,12 @@
 
 A command line cheat sheet for semantic labelling.
 
+### Install with:
+
+`npm install sem-cs -g`
+
+### CLI Options and Commands
+
 ```
 Options:
   -V, --version     output the version number
@@ -19,7 +25,7 @@ Tags include:
 - types (default)
 - footer
 
-## References:
+### References:
 
 - http://karma-runner.github.io/1.0/dev/git-commit-msg.html
 - https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
